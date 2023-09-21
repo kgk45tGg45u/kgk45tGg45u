@@ -1,3 +1,4 @@
+![Welcome to my Github page](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Huhu 👋, I'm Bijan</h1>
 <h3 align="center">A passionate web developer from Potsdam, Germany</h3>
 
