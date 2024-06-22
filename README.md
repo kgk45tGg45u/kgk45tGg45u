@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RSpec and Typescript**
 
-- 🤝 I’m looking for help with [Unicorn](https://github.com/kgk45tGg45u/unicorn)
+- 🤝 I’m looking for help with [Unicorn](https://github.com/kgk45tGg45u/unicorn_react)
 
 - 💬 Ask me about **CSS, HTML, Ruby, Windows troubleshooting**
 
